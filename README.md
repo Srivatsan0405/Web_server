@@ -29,6 +29,8 @@ Testing the webserver
 # PROGRAM:
 Type your code here
 # OUTPUT:
+![Alt text](webserver.jpg)
+
 
 # RESULT:
 
