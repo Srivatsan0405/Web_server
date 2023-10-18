@@ -22,7 +22,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 content ="""
 <html>
 <head>
-<?head>
+</head>
 <body>
 <h1>SRIVATSAN V</h1>
 <h1>Internet of Things</h1>
